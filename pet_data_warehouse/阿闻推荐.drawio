@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-28T12:26:29.034Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="3peo-bBcHN2ztVqSqSQa" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T12:37:13.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="HZ_J-ymy925aJ672wp9j" version="12.1.7" type="github" pages="1">
   <diagram id="5SqydeUb4CkrXxFfDaNg" name="第 1 页">
     <mxGraphModel dx="2418" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -125,6 +125,9 @@
             <mxPoint x="-620" y="537" as="sourcePoint"/>
             <mxPoint x="-560" y="280" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nWahTBw1QjZK64K7BPGh-44" value="&lt;font color=&quot;#66b2ff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;宠物标签&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="540" width="70" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
