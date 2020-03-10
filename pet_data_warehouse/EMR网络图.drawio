@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-10T00:44:12.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="RDdP4QIJCfrv6A0t3zCl" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-10T00:46:55.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="L4JqDFyP4z-llMIN-G4f" version="12.8.2" type="github">
   <diagram id="RR_c8ggQtL3WIy5Bg4WH" name="Page-1">
     <mxGraphModel dx="900" dy="1023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -193,6 +193,21 @@
         </mxCell>
         <mxCell id="2CX6G7BixtwcyF8iLQ-1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zOEphUjOcovV0QVA03cs-28" target="2CX6G7BixtwcyF8iLQ-1-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2CX6G7BixtwcyF8iLQ-1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2CX6G7BixtwcyF8iLQ-1-11" target="zOEphUjOcovV0QVA03cs-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2CX6G7BixtwcyF8iLQ-1-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1404" y="379" width="56" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2CX6G7BixtwcyF8iLQ-1-11" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="2CX6G7BixtwcyF8iLQ-1-14">
+          <mxGeometry width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2CX6G7BixtwcyF8iLQ-1-13" value="业务人员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2CX6G7BixtwcyF8iLQ-1-14">
+          <mxGeometry y="40.5" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2CX6G7BixtwcyF8iLQ-1-15" value="查看仲谋&amp;amp;医院日报数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1246" y="375" width="136" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
