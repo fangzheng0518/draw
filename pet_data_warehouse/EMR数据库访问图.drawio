@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T08:25:01.389Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="bwyeW9sy8NZyCpKEiIGR" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-21T08:27:05.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Xn6Xw_mBuvBLanIacCPO" version="12.8.8" type="github">
   <diagram id="RR_c8ggQtL3WIy5Bg4WH" name="Page-1">
     <mxGraphModel dx="900" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -167,21 +167,28 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="22" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1000" y="392" />
+              <mxPoint x="1040" y="392" />
+              <mxPoint x="1040" y="22" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="523SSdcDzX9E7wjEWsFp-45" value="仲谋&amp;amp;医院日报读取EMR集群计算好的数据然后展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="319" width="120" height="20" as="geometry" />
+          <mxGeometry x="1030" y="330" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="523SSdcDzX9E7wjEWsFp-48" value="emr_metadata" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;dashed=1;fillColor=#A9C4EB;dashPattern=1 4;strokeColor=#4C6487;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-22" width="100" height="44" as="geometry" />
         </mxCell>
         <mxCell id="523SSdcDzX9E7wjEWsFp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2CX6G7BixtwcyF8iLQ-1-27" target="523SSdcDzX9E7wjEWsFp-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="491" />
+              <mxPoint x="850" y="270" />
+              <mxPoint x="1090" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="523SSdcDzX9E7wjEWsFp-50" value="emr集群中的元数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="760" y="470" width="166" height="20" as="geometry" />
+          <mxGeometry x="720" y="410" width="166" height="20" as="geometry" />
         </mxCell>
         <mxCell id="523SSdcDzX9E7wjEWsFp-52" value="&lt;font color=&quot;#f23607&quot; style=&quot;font-size: 13px&quot;&gt;问题：这个地方待考虑，可能需要EMR集群访问pet_medical库&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="216" width="246" height="40" as="geometry" />
@@ -190,8 +197,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1009" y="25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1232" y="410" />
-              <mxPoint x="1009" y="410" />
+              <mxPoint x="1009" y="456" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -224,7 +230,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="523SSdcDzX9E7wjEWsFp-61" value="医院日报读取pet_medical库数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="966" y="410" width="184" height="20" as="geometry" />
+          <mxGeometry x="978" y="459.5" width="184" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="523SSdcDzX9E7wjEWsFp-62" value="仲谋元数据（三个库）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="175" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
