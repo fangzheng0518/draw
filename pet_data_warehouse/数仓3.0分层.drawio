@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T07:25:42.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="0gnNN4ePnmDQx4mt8GPo" version="13.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-15T07:26:07.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="6SmYSnoYutbBqsRWblK_" version="13.1.2" type="github" pages="2">
   <diagram id="xDaqMbVTm9odR8-DioXX" name="数仓分层">
     <mxGraphModel dx="899" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="450" y="838" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XlqB7zhyvsYsPDYVo4y1-10" value="单业务场景、行为数据组装、提升公共指标的复用、天维度的汇总" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="775" width="320" height="20" as="geometry" />
+          <mxGeometry x="450" y="775" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XlqB7zhyvsYsPDYVo4y1-11" value="宽表集市、跨过业务场景、行为数据组装" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="712" width="320" height="20" as="geometry" />
