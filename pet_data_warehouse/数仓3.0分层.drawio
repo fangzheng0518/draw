@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T06:45:15.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="B8zk-4uV_-zw6KLzc-xU" version="13.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-15T06:47:22.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="dkcsykA0C_qVGET-_H4j" version="13.1.2" type="github" pages="2">
   <diagram id="xDaqMbVTm9odR8-DioXX" name="数仓分层">
     <mxGraphModel dx="899" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,19 +63,19 @@
         <mxCell id="Z9YH_-ktKUOfIyejoIjv-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;数据服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
           <mxGeometry x="80" y="30" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Z9YH_-ktKUOfIyejoIjv-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
+        <mxCell id="Z9YH_-ktKUOfIyejoIjv-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
           <mxGeometry x="160" y="10" width="560" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z9YH_-ktKUOfIyejoIjv-6" value="仲谋平台、医院日报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
+        <mxCell id="Z9YH_-ktKUOfIyejoIjv-6" value="仲谋平台、医院日报" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
           <mxGeometry x="170" y="20" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9YH_-ktKUOfIyejoIjv-7" value="自助分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
+        <mxCell id="Z9YH_-ktKUOfIyejoIjv-7" value="自助分析" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
           <mxGeometry x="310" y="20" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9YH_-ktKUOfIyejoIjv-8" value="大屏展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
+        <mxCell id="Z9YH_-ktKUOfIyejoIjv-8" value="大屏展示" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
           <mxGeometry x="450" y="20" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9YH_-ktKUOfIyejoIjv-9" value="其他数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
+        <mxCell id="Z9YH_-ktKUOfIyejoIjv-9" value="其他数据服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
           <mxGeometry x="590" y="20" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9YH_-ktKUOfIyejoIjv-10" value="&lt;font style=&quot;font-size: 15px&quot;&gt;数据计算&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
@@ -114,7 +114,7 @@
         <mxCell id="Z9YH_-ktKUOfIyejoIjv-16" value="等等" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#CCCCCC;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
           <mxGeometry x="601" y="576" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9YH_-ktKUOfIyejoIjv-17" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#7EA6E0;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
+        <mxCell id="Z9YH_-ktKUOfIyejoIjv-17" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;strokeWidth=2;fillColor=#66B2FF;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
           <mxGeometry x="160" y="120" width="120" height="330" as="geometry" />
         </mxCell>
         <mxCell id="Z9YH_-ktKUOfIyejoIjv-18" value="&lt;font style=&quot;font-size: 15px&quot;&gt;离线计算&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Z9YH_-ktKUOfIyejoIjv-1">
