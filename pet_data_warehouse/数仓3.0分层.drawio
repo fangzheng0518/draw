@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T07:13:28.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="ujHZ9E7RAXyFQ56ZHNOa" version="13.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-15T07:25:42.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="0gnNN4ePnmDQx4mt8GPo" version="13.1.2" type="github" pages="2">
   <diagram id="xDaqMbVTm9odR8-DioXX" name="数仓分层">
     <mxGraphModel dx="899" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,42 @@
         </mxCell>
         <mxCell id="EJTIUBt2cEUTjr5KvXVu-6" value="DIM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="580" y="160" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-1" value="数据应用层：ADS(Application Data Store)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="639" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-2" value="数据集市层：DWM(Data Warehouse Market)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="702" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-3" value="数据汇总层：DWS(Data Warehouse Summary)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="765" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-4" value="数据明细层：DWD(Data Warehouse Detail)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="828" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-5" value="数据操作层：ODS(Operational Data Store)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="158.5" y="950" width="281.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-6" value="数据同步、基本保持和源系统数据一致" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="960" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-7" value="公共维度层：DIM（Dimension）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="158.5" y="890" width="281.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-8" value="公共维度：例如医院、宠物、宠主" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="900" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-9" value="标准化、维度补全、字段类型统一、异常值处理" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="838" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-10" value="单业务场景、行为数据组装、提升公共指标的复用、天维度的汇总" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="775" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-11" value="宽表集市、跨过业务场景、行为数据组装" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="712" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XlqB7zhyvsYsPDYVo4y1-12" value="个性化指标加工、基于报表的数据组装" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="649" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
