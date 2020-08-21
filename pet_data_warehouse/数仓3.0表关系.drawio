@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T02:34:18.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="90XuBlgr_8sw_xVX4gSB" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T02:35:07.564Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="I4IkvkwJ9gJq7m8CaYAu" version="13.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1378" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="Bk855qsE1jtpseWWsSES-13" value="分类流水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="524.5" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bk855qsE1jtpseWWsSES-14" value="库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2000" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
