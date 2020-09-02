@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T07:34:04.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="X0QMqc21VU2D_GReumYH" version="13.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-02T08:36:16.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="6eq4wOZfuiWjkUvBCKZ7" version="13.6.6" type="github" pages="3">
   <diagram id="e7W88Nainjo_8dd-rPL6" name="中台架构">
     <mxGraphModel dx="1378" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4amVJ0EDhjmXc1140mW7" name="数据体系建设">
-    <mxGraphModel dx="2547" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2547" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="3DS51sNWliXNfaS7lL2H-0" />
         <mxCell id="3DS51sNWliXNfaS7lL2H-1" parent="3DS51sNWliXNfaS7lL2H-0" />
