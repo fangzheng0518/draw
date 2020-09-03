@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T11:11:06.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="avy0-39rd-nAyllTunC4" version="13.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-03T10:47:58.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="uovoxfpqRyHTMNRkSY-_" version="13.6.6" type="github" pages="4">
   <diagram id="e7W88Nainjo_8dd-rPL6" name="中台架构">
     <mxGraphModel dx="1378" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4amVJ0EDhjmXc1140mW7" name="数据体系建设">
-    <mxGraphModel dx="2547" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2547" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="3DS51sNWliXNfaS7lL2H-0" />
         <mxCell id="3DS51sNWliXNfaS7lL2H-1" parent="3DS51sNWliXNfaS7lL2H-0" />
@@ -227,9 +227,6 @@
         <mxCell id="3DS51sNWliXNfaS7lL2H-23" value="员工" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
           <mxGeometry x="-514" y="395" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3DS51sNWliXNfaS7lL2H-24" value="病历" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
-          <mxGeometry x="-440" y="395" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-26" value="区域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
           <mxGeometry x="-870" y="395" width="60" height="30" as="geometry" />
         </mxCell>
@@ -240,18 +237,18 @@
           <mxGeometry x="-800" y="475" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-30" value="订单域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
-          <mxGeometry x="-730" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="-659" y="475" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-31" value="库存域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
-          <mxGeometry x="-660" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="-589" y="475" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-32" value="成本域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
-          <mxGeometry x="-585" y="475" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3DS51sNWliXNfaS7lL2H-33" value="设备域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
           <mxGeometry x="-514" y="475" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3DS51sNWliXNfaS7lL2H-34" value="资金域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
+        <mxCell id="3DS51sNWliXNfaS7lL2H-33" value="宠物域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
+          <mxGeometry x="-730" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3DS51sNWliXNfaS7lL2H-34" value="...." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
           <mxGeometry x="-440" y="475" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-35" value="产品域" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
@@ -261,19 +258,25 @@
           <mxGeometry x="-890" y="540" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-37" value="阿闻数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
-          <mxGeometry x="-765" y="555" width="80" height="30" as="geometry" />
+          <mxGeometry x="-790" y="555" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-38" value="供应链数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
-          <mxGeometry x="-670" y="555" width="110" height="30" as="geometry" />
+          <mxGeometry x="-709" y="555" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-39" value="教育数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
-          <mxGeometry x="-545" y="555" width="70" height="30" as="geometry" />
+          <mxGeometry x="-610" y="555" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-40" value="公开数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
-          <mxGeometry x="-460" y="555" width="66" height="30" as="geometry" />
+          <mxGeometry x="-520" y="555" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3DS51sNWliXNfaS7lL2H-43" value="子龙数据" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
-          <mxGeometry x="-870" y="555" width="90" height="30" as="geometry" />
+          <mxGeometry x="-870" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HUpQf_F1Am7h9nazmmZ2-0" value="...." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
+          <mxGeometry x="-440" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HUpQf_F1Am7h9nazmmZ2-1" value="...." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B0CAF5;strokeWidth=1;align=center;fillColor=#FFFFFF;" vertex="1" parent="3DS51sNWliXNfaS7lL2H-1">
+          <mxGeometry x="-440" y="555" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
