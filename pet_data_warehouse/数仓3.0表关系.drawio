@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T11:49:43.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="tAVXMUsrR3gZU-JYSGdz" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T11:51:13.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="LR64h_o4MZeWCaC6bfKH" version="13.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="表关系">
     <mxGraphModel dx="4175" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="1">
       <root>
@@ -576,6 +576,14 @@
         </mxCell>
         <mxCell id="bmP3MVSYj3AezbXHwAI5-164" value="&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;dwd_his_pos_payment_method&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="1290" width="212.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bmP3MVSYj3AezbXHwAI5-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontFamily=Helvetica;fontSize=13;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bmP3MVSYj3AezbXHwAI5-168" target="bmP3MVSYj3AezbXHwAI5-162">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-134" y="1180" />
+              <mxPoint x="-264" y="1180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bmP3MVSYj3AezbXHwAI5-168" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;dwd_his_pos_rma_refund&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-219" y="1290" width="170" height="30" as="geometry" />
