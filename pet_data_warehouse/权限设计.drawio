@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T03:18:17.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="x3saKGuXmJBJGQDpn1DO" version="13.7.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-15T03:18:45.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_PVXCMvwzXGjiz2u_jqG" version="13.7.9" type="github" pages="2">
   <diagram id="wyeh-DEslIX5HUMllB9E" name="用户登录">
     <mxGraphModel dx="1378" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -23,8 +23,8 @@
         <mxCell id="dgVE0eAPtg8r2mzdLM1t-5" value="非控股" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dgVE0eAPtg8r2mzdLM1t-13" value="自动同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="410" width="50" height="20" as="geometry" />
+        <mxCell id="dgVE0eAPtg8r2mzdLM1t-13" value="自动&amp;amp;手动同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="410" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dgVE0eAPtg8r2mzdLM1t-15" value="&lt;font style=&quot;font-size: 15px&quot;&gt;数据门户&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="657.5" y="228" width="100" height="20" as="geometry" />
@@ -50,8 +50,8 @@
         <mxCell id="Wcl087vezOpqiJ7zV3I6-5" value="管理中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="278" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wcl087vezOpqiJ7zV3I6-8" value="手动同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="50" height="20" as="geometry" />
+        <mxCell id="Wcl087vezOpqiJ7zV3I6-8" value="手动管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
