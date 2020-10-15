@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T03:18:45.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_PVXCMvwzXGjiz2u_jqG" version="13.7.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-15T03:22:34.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="I4bup6klILtGNmq1j7pR" version="13.7.9" type="github" pages="2">
   <diagram id="wyeh-DEslIX5HUMllB9E" name="用户登录">
-    <mxGraphModel dx="1378" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1378" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,8 +50,8 @@
         <mxCell id="Wcl087vezOpqiJ7zV3I6-5" value="管理中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="278" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wcl087vezOpqiJ7zV3I6-8" value="手动管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="50" height="20" as="geometry" />
+        <mxCell id="Wcl087vezOpqiJ7zV3I6-8" value="手动增删改查管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247" y="439" width="104" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
