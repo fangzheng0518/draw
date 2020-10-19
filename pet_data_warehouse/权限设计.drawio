@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T11:59:00.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="WMsATBHhgYLtGDfWXEfb" version="13.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-19T12:01:40.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="nNc67947KMeC7TIJcZlK" version="13.8.0" type="github" pages="3">
   <diagram id="wyeh-DEslIX5HUMllB9E" name="用户登录">
     <mxGraphModel dx="1379" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
         <mxCell id="i9poHdWUBlSxaNIfTEHj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="OsziL55888v6D7ve3e-J-1" source="OsziL55888v6D7ve3e-J-3" target="i9poHdWUBlSxaNIfTEHj-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i9poHdWUBlSxaNIfTEHj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="OsziL55888v6D7ve3e-J-1" source="OsziL55888v6D7ve3e-J-3" target="i9poHdWUBlSxaNIfTEHj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsziL55888v6D7ve3e-J-3" value="功能权限角色" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="OsziL55888v6D7ve3e-J-1" vertex="1">
           <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -136,6 +139,12 @@
         </mxCell>
         <mxCell id="i9poHdWUBlSxaNIfTEHj-20" value="&lt;span&gt;医院基础信息表&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
           <mxGeometry x="210" y="700" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i9poHdWUBlSxaNIfTEHj-22" value="跟Davinci平台对接，将角色与Davinci平台的角色映射起来" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
+          <mxGeometry x="560" y="190" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i9poHdWUBlSxaNIfTEHj-23" value="&lt;span&gt;Davinci&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
+          <mxGeometry x="750" y="160" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
