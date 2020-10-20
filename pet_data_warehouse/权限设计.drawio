@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T02:55:29.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="BpKsO5f0YPmsHycB6MiB" version="13.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-20T02:55:45.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="ihmceDKkdMJc497pxUV8" version="13.8.0" type="github" pages="2">
   <diagram id="wyeh-DEslIX5HUMllB9E" name="用户登录">
     <mxGraphModel dx="1379" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
         <mxCell id="Jp9jI565Ps0WdznfpB3e-4" value="&lt;span&gt;Davinci&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
           <mxGeometry x="275" y="440" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Jp9jI565Ps0WdznfpB3e-6" value="Davnci平台用户&lt;br&gt;统一从用户中心读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
+        <mxCell id="Jp9jI565Ps0WdznfpB3e-6" value="Davnci平台用户信息&lt;br&gt;统一从用户中心读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
           <mxGeometry x="336" y="483" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jp9jI565Ps0WdznfpB3e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="OsziL55888v6D7ve3e-J-1" source="Jp9jI565Ps0WdznfpB3e-7" target="OsziL55888v6D7ve3e-J-6">
