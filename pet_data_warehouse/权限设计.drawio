@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T04:45:30.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="s3MvYTiCsAxDPrUK_A-o" version="13.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-20T04:47:14.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="AhjhiDVvxDujgHIgifCZ" version="13.8.0" type="github" pages="2">
   <diagram id="wyeh-DEslIX5HUMllB9E" name="用户登录">
     <mxGraphModel dx="1379" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -105,13 +105,13 @@
         <mxCell id="i9poHdWUBlSxaNIfTEHj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="OsziL55888v6D7ve3e-J-1" source="i9poHdWUBlSxaNIfTEHj-2" target="OsziL55888v6D7ve3e-J-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i9poHdWUBlSxaNIfTEHj-2" value="【用户】与【功能角色】关联关系表&lt;br&gt;&lt;font color=&quot;#1008ff&quot;&gt;auth_user_resouce_role&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
+        <mxCell id="i9poHdWUBlSxaNIfTEHj-2" value="【用户】与【功能角色】关联关系&lt;br&gt;&lt;font color=&quot;#1008ff&quot;&gt;auth_user_resouce_role&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
           <mxGeometry x="399.38" y="350" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i9poHdWUBlSxaNIfTEHj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OsziL55888v6D7ve3e-J-1" source="i9poHdWUBlSxaNIfTEHj-6" target="OsziL55888v6D7ve3e-J-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i9poHdWUBlSxaNIfTEHj-6" value="【用户】与【数据角色】关联关系表&lt;br&gt;&lt;font color=&quot;#1008ff&quot;&gt;auth_user_data_role&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
+        <mxCell id="i9poHdWUBlSxaNIfTEHj-6" value="【用户】与【数据角色】关联关系&lt;br&gt;&lt;font color=&quot;#1008ff&quot;&gt;auth_user_data_role&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
           <mxGeometry x="404.38" y="560" width="201.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i9poHdWUBlSxaNIfTEHj-10" value="数据门户数据权限&lt;br&gt;&lt;font color=&quot;#1008ff&quot;&gt;auth_data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
@@ -157,7 +157,7 @@
         <mxCell id="Jp9jI565Ps0WdznfpB3e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="OsziL55888v6D7ve3e-J-1" source="Jp9jI565Ps0WdznfpB3e-0" target="OsziL55888v6D7ve3e-J-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jp9jI565Ps0WdznfpB3e-0" value="【功能权限角色】与【功能权限】对应关系&lt;br&gt;&lt;font color=&quot;#1008ff&quot;&gt;auth_role_resource&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
+        <mxCell id="Jp9jI565Ps0WdznfpB3e-0" value="【功能权限角色】与【功能权限】关联关系&lt;br&gt;&lt;font color=&quot;#1008ff&quot;&gt;auth_role_resource&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
           <mxGeometry x="378.75" y="150" width="252.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jp9jI565Ps0WdznfpB3e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="OsziL55888v6D7ve3e-J-1" source="Jp9jI565Ps0WdznfpB3e-4" target="OsziL55888v6D7ve3e-J-2">
@@ -175,7 +175,7 @@
         <mxCell id="Jp9jI565Ps0WdznfpB3e-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="OsziL55888v6D7ve3e-J-1" source="Jp9jI565Ps0WdznfpB3e-7" target="i9poHdWUBlSxaNIfTEHj-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jp9jI565Ps0WdznfpB3e-7" value="【数据权限角色】 与【数据权限】关联关系&lt;br&gt;&lt;font color=&quot;#1008ff&quot;&gt;auth_role_data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
+        <mxCell id="Jp9jI565Ps0WdznfpB3e-7" value="【数据权限角色】 与【数据权限】关联关系&lt;br&gt;&lt;font color=&quot;#1008ff&quot;&gt;auth_role_data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
           <mxGeometry x="386.25" y="740" width="237.5" height="60" as="geometry" />
         </mxCell>
       </root>
