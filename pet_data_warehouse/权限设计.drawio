@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T02:55:45.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="ihmceDKkdMJc497pxUV8" version="13.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-20T02:58:17.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="LHh9tUtXaHiFEiRTVqOs" version="13.8.0" type="github" pages="2">
   <diagram id="wyeh-DEslIX5HUMllB9E" name="用户登录">
     <mxGraphModel dx="1379" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
         <mxCell id="i9poHdWUBlSxaNIfTEHj-27" value="&lt;span&gt;Davinci&lt;br&gt;SQL查询&lt;br&gt;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
           <mxGeometry x="775" y="550" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i9poHdWUBlSxaNIfTEHj-29" value="Davinci做SQL查询时，获取该用户所拥有的数据权限，并在Davinci平台进行控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
+        <mxCell id="i9poHdWUBlSxaNIfTEHj-29" value="Davinci做SQL查询时，获取该用户所拥有的数据权限，并在Davinci平台进行数据权限控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OsziL55888v6D7ve3e-J-1">
           <mxGeometry x="585" y="580" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jp9jI565Ps0WdznfpB3e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="OsziL55888v6D7ve3e-J-1" source="Jp9jI565Ps0WdznfpB3e-0" target="i9poHdWUBlSxaNIfTEHj-12">
