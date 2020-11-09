@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T10:43:26.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="JvtN5T8ynH5G1t0GJuFF" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T11:41:17.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="cuWE8FMrGMcagvwKlRN_" version="13.9.2" type="github">
   <diagram id="c5kdTRejKZmxDaOdrKF4" name="第 1 页">
     <mxGraphModel dx="1378" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -198,14 +198,41 @@
         <mxCell id="LvSSgyAVDcki62eBbeNR-58" value="南通市" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LvSSgyAVDcki62eBbeNR-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="LvSSgyAVDcki62eBbeNR-61" target="LvSSgyAVDcki62eBbeNR-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LvSSgyAVDcki62eBbeNR-61" value="上海运营一区" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="330" y="550" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvSSgyAVDcki62eBbeNR-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="LvSSgyAVDcki62eBbeNR-62" target="LvSSgyAVDcki62eBbeNR-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LvSSgyAVDcki62eBbeNR-62" value="上海运营二区" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="425" y="550" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LvSSgyAVDcki62eBbeNR-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="LvSSgyAVDcki62eBbeNR-63" target="LvSSgyAVDcki62eBbeNR-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LvSSgyAVDcki62eBbeNR-63" value="上海运营三区" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="515" y="550" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvSSgyAVDcki62eBbeNR-69" value="芭比堂上海机灵鬼" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LvSSgyAVDcki62eBbeNR-70" value="芭比堂上海仁德" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="620" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LvSSgyAVDcki62eBbeNR-71" value="安安上海心安" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="445" y="620" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LvSSgyAVDcki62eBbeNR-72" value="安安上海点点丁香路" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="465" y="620" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LvSSgyAVDcki62eBbeNR-73" value="安安上海鹏峰" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="535" y="620" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LvSSgyAVDcki62eBbeNR-74" value="安安上海宁安" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#6c8ebf;fillColor=#224a88;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="555" y="620" width="20" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
