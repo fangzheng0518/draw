@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T06:32:52.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4a1lI4TGdwwFkhZKL2QA" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T06:33:09.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="C6SP9UtH9EBamrip06xr" version="13.10.4" type="github">
   <diagram id="U6srqt75170l28uQUDtd" name="第 1 页">
     <mxGraphModel dx="1426" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -76,8 +76,8 @@
             <mxPoint x="210" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2eTBFEBDB5hamMIv9L25-30" value="新仲谋机器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="275" width="80" height="20" as="geometry" />
+        <mxCell id="2eTBFEBDB5hamMIv9L25-30" value="新仲谋数据平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="408.5" y="276" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2eTBFEBDB5hamMIv9L25-31" value="&lt;font color=&quot;#ff1008&quot;&gt;&lt;b&gt;访问Hadoop相关组件，例如：impala、presto、kylin&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="380" width="320" height="30" as="geometry" />
