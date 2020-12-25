@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T09:52:52.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YTPKc84D4hiowO1UOh-B" version="14.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-25T09:55:07.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6eABf2qQef9N_9RNziUI" version="14.0.3" type="github" pages="5">
   <diagram id="e7W88Nainjo_8dd-rPL6" name="中台架构">
     <mxGraphModel dx="1251" dy="2368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -88,10 +88,10 @@
         <mxCell id="CPNvcabdiu5UPQY6YueO-0" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;计算平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;imageHeight=33;strokeColor=none;fillColor=#008ef4;" vertex="1" parent="ibMRgNt4sKEfAej5PDVp-1">
           <mxGeometry x="178" y="2600" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CPNvcabdiu5UPQY6YueO-1" value="离线计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;fontSize=16;gradientColor=#ffffff;strokeColor=none;" vertex="1" parent="ibMRgNt4sKEfAej5PDVp-1">
+        <mxCell id="CPNvcabdiu5UPQY6YueO-1" value="离线计算" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;fontColor=#ffffff;fillColor=#1f465c;strokeColor=#ffffff;" vertex="1" parent="ibMRgNt4sKEfAej5PDVp-1">
           <mxGeometry x="288" y="2601" width="300" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="CPNvcabdiu5UPQY6YueO-5" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;实时计算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;fontSize=16;gradientColor=#ffffff;strokeColor=none;" vertex="1" parent="ibMRgNt4sKEfAej5PDVp-1">
+        <mxCell id="CPNvcabdiu5UPQY6YueO-5" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;实时计算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;fontColor=#ffffff;fillColor=#1f465c;strokeColor=#ffffff;" vertex="1" parent="ibMRgNt4sKEfAej5PDVp-1">
           <mxGeometry x="588" y="2601" width="300" height="39" as="geometry" />
         </mxCell>
         <mxCell id="CPNvcabdiu5UPQY6YueO-6" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;数据资产&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;imageHeight=33;fontSize=20;strokeColor=none;fillColor=#008ef4;" vertex="1" parent="ibMRgNt4sKEfAej5PDVp-1">
@@ -259,7 +259,7 @@
         <mxCell id="CPNvcabdiu5UPQY6YueO-84" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;存储平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;imageHeight=33;strokeColor=none;fillColor=#008ef4;" vertex="1" parent="ibMRgNt4sKEfAej5PDVp-1">
           <mxGeometry x="178" y="2640" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CPNvcabdiu5UPQY6YueO-86" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Hadoop&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;fontSize=16;gradientColor=#ffffff;strokeColor=none;" vertex="1" parent="ibMRgNt4sKEfAej5PDVp-1">
+        <mxCell id="CPNvcabdiu5UPQY6YueO-86" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;Hadoop&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;fontColor=#ffffff;fillColor=#1f465c;strokeColor=#ffffff;" vertex="1" parent="ibMRgNt4sKEfAej5PDVp-1">
           <mxGeometry x="288" y="2640" width="600" height="39" as="geometry" />
         </mxCell>
       </root>
