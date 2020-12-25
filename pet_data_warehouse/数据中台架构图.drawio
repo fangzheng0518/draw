@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T10:34:05.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5R7Dt3xufBCEGdy_tx2f" version="14.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-25T10:35:00.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="iJE8F-zlDxyzo73ntdXo" version="14.0.3" type="github" pages="6">
   <diagram id="e7W88Nainjo_8dd-rPL6" name="中台架构">
     <mxGraphModel dx="1251" dy="2368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -363,7 +363,7 @@
         <mxCell id="SgVpnLtqF8ckSAIgoPkX-0" />
         <mxCell id="SgVpnLtqF8ckSAIgoPkX-1" parent="SgVpnLtqF8ckSAIgoPkX-0" />
         <mxCell id="iqNHHkeJvKJOUnjgiwJY-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4472c4;strokeWidth=1;fontSize=20;fillColor=#2c363f;gradientDirection=south;gradientColor=#5E5E5E;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
-          <mxGeometry x="112" y="2000" width="890" height="620" as="geometry" />
+          <mxGeometry x="100" y="2000" width="902" height="620" as="geometry" />
         </mxCell>
         <mxCell id="iqNHHkeJvKJOUnjgiwJY-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 17px;&quot;&gt;计算平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;imageHeight=33;strokeColor=none;fillColor=#008ef4;fontSize=17;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
           <mxGeometry x="250" y="2510" width="110" height="40" as="geometry" />
@@ -554,13 +554,13 @@
         <mxCell id="iqNHHkeJvKJOUnjgiwJY-63" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px&quot;&gt;移动终端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;fillColor=#0098fa;strokeColor=none;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
           <mxGeometry x="602.5" y="2160" width="107" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iqNHHkeJvKJOUnjgiwJY-64" value="&lt;font color=&quot;#ffffff&quot;&gt;数据智能化监控推送&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;fillColor=#0098fa;strokeColor=none;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
+        <mxCell id="iqNHHkeJvKJOUnjgiwJY-64" value="&lt;font color=&quot;#ffffff&quot;&gt;数据智能化监控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;fillColor=#0098fa;strokeColor=none;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
           <mxGeometry x="738" y="2100" width="214" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iqNHHkeJvKJOUnjgiwJY-65" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px&quot;&gt;病例质量监控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;fillColor=#0098fa;strokeColor=none;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
           <mxGeometry x="738" y="2140" width="102" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iqNHHkeJvKJOUnjgiwJY-66" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px&quot;&gt;核心指标实时监控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;fillColor=#0098fa;strokeColor=none;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
+        <mxCell id="iqNHHkeJvKJOUnjgiwJY-66" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px&quot;&gt;核心指标监控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;fillColor=#0098fa;strokeColor=none;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
           <mxGeometry x="840" y="2140" width="112" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iqNHHkeJvKJOUnjgiwJY-68" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 13px&quot;&gt;异常指标智能播报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;fillColor=#0098fa;strokeColor=none;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
