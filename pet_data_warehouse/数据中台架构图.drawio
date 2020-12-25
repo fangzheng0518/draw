@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T10:11:16.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mL6-7DMkvsiIrBrDv9B7" version="14.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-25T10:16:00.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WS493xvslSI46CaRzlvt" version="14.0.3" type="github" pages="6">
   <diagram id="e7W88Nainjo_8dd-rPL6" name="中台架构">
     <mxGraphModel dx="1251" dy="2368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -516,10 +516,10 @@
           <mxGeometry x="212" y="2100" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iqNHHkeJvKJOUnjgiwJY-51" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px&quot;&gt;基础平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;imageHeight=33;fontSize=20;fillColor=none;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
-          <mxGeometry x="112" y="2515" width="112" height="60" as="geometry" />
+          <mxGeometry x="112" y="2520" width="112" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iqNHHkeJvKJOUnjgiwJY-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#ffffff;strokeWidth=1;fillColor=#ffffff;gradientColor=none;fontSize=20;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
-          <mxGeometry x="212" y="2510" width="20" height="70" as="geometry" />
+          <mxGeometry x="212" y="2510" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iqNHHkeJvKJOUnjgiwJY-53" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 17px;&quot;&gt;存储平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;imageHeight=33;strokeColor=none;fillColor=#008ef4;fontSize=17;" vertex="1" parent="SgVpnLtqF8ckSAIgoPkX-1">
           <mxGeometry x="250" y="2550" width="110" height="40" as="geometry" />
