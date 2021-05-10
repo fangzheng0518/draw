@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T07:39:29.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="TTtmWDJlYgTPKiM3FnOc" version="14.6.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-10T07:50:12.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ComLSrZv0HS1zMY-YU-T" version="14.6.11" type="github" pages="3">
   <diagram id="u2uXBXgQpVOhXw65fqWF" name="新报表开发需求申请流程">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -43,8 +43,25 @@
         <mxCell id="t-ILEGw8UZY0o8nZiPXd-14" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="150" y="155" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="t-ILEGw8UZY0o8nZiPXd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t-ILEGw8UZY0o8nZiPXd-16" target="t-ILEGw8UZY0o8nZiPXd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t-ILEGw8UZY0o8nZiPXd-16" value="1、填写仲谋报表开发申请单" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="245" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t-ILEGw8UZY0o8nZiPXd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="t-ILEGw8UZY0o8nZiPXd-19" target="t-ILEGw8UZY0o8nZiPXd-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="355" y="370" />
+              <mxPoint x="180" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-ILEGw8UZY0o8nZiPXd-19" value="2、所属负责人审批" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="225" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t-ILEGw8UZY0o8nZiPXd-24" value="审批不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
