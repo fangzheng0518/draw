@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T07:50:12.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ComLSrZv0HS1zMY-YU-T" version="14.6.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-10T07:53:30.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ZEZd_r3B4iJzZ31AMSDm" version="14.6.11" type="github" pages="3">
   <diagram id="u2uXBXgQpVOhXw65fqWF" name="新报表开发需求申请流程">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -62,6 +62,18 @@
         </mxCell>
         <mxCell id="t-ILEGw8UZY0o8nZiPXd-24" value="审批不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t-ILEGw8UZY0o8nZiPXd-25" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="456" as="sourcePoint" />
+            <mxPoint x="270" y="116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-ILEGw8UZY0o8nZiPXd-26" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="455" as="sourcePoint" />
+            <mxPoint x="440" y="115" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
