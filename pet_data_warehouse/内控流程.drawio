@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T09:13:50.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="fmAPgTDr4dRXK6D3bULs" version="14.6.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-10T09:14:10.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="_fLG_c-kaTj-L2IegkKQ" version="14.6.11" type="github" pages="3">
   <diagram id="u2uXBXgQpVOhXw65fqWF" name="新报表开发需求申请流程">
     <mxGraphModel dx="1426" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -161,13 +161,13 @@
         <mxCell id="t-ILEGw8UZY0o8nZiPXd-57" value="8、验收" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="380" y="732.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t-ILEGw8UZY0o8nZiPXd-61" value="验收不通过：开发问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t-ILEGw8UZY0o8nZiPXd-61" value="开发问题验收不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="620" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t-ILEGw8UZY0o8nZiPXd-62" value="验收通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="750" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t-ILEGw8UZY0o8nZiPXd-64" value="验收不通过：需求问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t-ILEGw8UZY0o8nZiPXd-64" value="需求问题验收不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="620" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
