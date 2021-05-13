@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T04:09:13.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BF1uVzat8F-QWj8D5c2v" version="14.6.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-13T05:40:22.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="6S01kvAkmNJ5Lr3SJqT3" version="14.6.11" type="github" pages="3">
   <diagram id="u2uXBXgQpVOhXw65fqWF" name="新报表开发需求申请流程">
     <mxGraphModel dx="1426" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -274,19 +274,15 @@
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-24" value="5、排期开发" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="NCF4tcWcs3JPyOawOPhI-1">
           <mxGeometry x="765" y="432.5" width="90" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ijkI_3LDNDb3iPdS3ZWE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NCF4tcWcs3JPyOawOPhI-1" source="ijkI_3LDNDb3iPdS3ZWE-26" target="ijkI_3LDNDb3iPdS3ZWE-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ijkI_3LDNDb3iPdS3ZWE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NCF4tcWcs3JPyOawOPhI-1" source="ijkI_3LDNDb3iPdS3ZWE-26" target="ijkI_3LDNDb3iPdS3ZWE-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="773" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-26" value="6、报表上线" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="NCF4tcWcs3JPyOawOPhI-1">
           <mxGeometry x="915" y="432.5" width="90" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ijkI_3LDNDb3iPdS3ZWE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NCF4tcWcs3JPyOawOPhI-1" source="ijkI_3LDNDb3iPdS3ZWE-28" target="ijkI_3LDNDb3iPdS3ZWE-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="705" y="772" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ijkI_3LDNDb3iPdS3ZWE-28" value="7、权限开通" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="NCF4tcWcs3JPyOawOPhI-1">
-          <mxGeometry x="915" y="740" width="90" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-29" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NCF4tcWcs3JPyOawOPhI-1">
           <mxGeometry x="135" y="757.5" width="60" height="30" as="geometry" />
@@ -332,7 +328,7 @@
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NCF4tcWcs3JPyOawOPhI-1" source="ijkI_3LDNDb3iPdS3ZWE-39" target="ijkI_3LDNDb3iPdS3ZWE-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ijkI_3LDNDb3iPdS3ZWE-39" value="8、验收" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="NCF4tcWcs3JPyOawOPhI-1">
+        <mxCell id="ijkI_3LDNDb3iPdS3ZWE-39" value="7、验收" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="NCF4tcWcs3JPyOawOPhI-1">
           <mxGeometry x="380" y="732.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-40" value="开发问题验收不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NCF4tcWcs3JPyOawOPhI-1">
