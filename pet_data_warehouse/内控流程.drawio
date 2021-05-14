@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T06:25:52.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="IkU1EbRnd40FtfNwXW1o" version="14.6.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-14T06:28:04.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Nw9ASqSbcWLN_Y0ZTDJt" version="14.6.11" type="github" pages="4">
   <diagram id="u2uXBXgQpVOhXw65fqWF" name="新报表开发需求申请流程">
     <mxGraphModel dx="1426" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -619,8 +619,8 @@
         <mxCell id="Y7JeSmrsrejJqWi0CLzl-41" value="验收通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y7JeSmrsrejJqWi0CLzl-1">
           <mxGeometry x="260" y="750" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Y7JeSmrsrejJqWi0CLzl-48" value="权限开通错误" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y7JeSmrsrejJqWi0CLzl-1">
-          <mxGeometry x="414" y="567" width="104" height="20" as="geometry" />
+        <mxCell id="Y7JeSmrsrejJqWi0CLzl-48" value="验收不通过：权限开通错误" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y7JeSmrsrejJqWi0CLzl-1">
+          <mxGeometry x="414" y="567" width="173" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
