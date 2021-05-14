@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T06:28:04.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Nw9ASqSbcWLN_Y0ZTDJt" version="14.6.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-14T06:37:47.935Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="CK8MmVAIOQOzsnrM54-t" version="14.6.11" type="github" pages="4">
   <diagram id="u2uXBXgQpVOhXw65fqWF" name="新报表开发需求申请流程">
     <mxGraphModel dx="1426" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -538,7 +538,7 @@
         <mxCell id="Y7JeSmrsrejJqWi0CLzl-7" value="信息技术部- IT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7JeSmrsrejJqWi0CLzl-1">
           <mxGeometry x="518" y="310" width="303" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Y7JeSmrsrejJqWi0CLzl-8" value="区域/部门负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7JeSmrsrejJqWi0CLzl-1">
+        <mxCell id="Y7JeSmrsrejJqWi0CLzl-8" value="区域所属副总裁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Y7JeSmrsrejJqWi0CLzl-1">
           <mxGeometry x="255" y="310" width="263" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Y7JeSmrsrejJqWi0CLzl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Y7JeSmrsrejJqWi0CLzl-1" source="Y7JeSmrsrejJqWi0CLzl-10" target="Y7JeSmrsrejJqWi0CLzl-12">
