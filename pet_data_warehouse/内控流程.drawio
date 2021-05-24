@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T11:16:22.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="NIDe3bGIlvowtxR5sdOm" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-24T11:17:11.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="gFUCAmk1tKNiOi154M22" version="14.6.13" type="github" pages="4">
   <diagram id="u2uXBXgQpVOhXw65fqWF" name="新报表开发需求申请流程">
     <mxGraphModel dx="1426" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
           <mxGeometry x="290" y="425" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-14" value="审批不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NCF4tcWcs3JPyOawOPhI-1" vertex="1">
-          <mxGeometry x="275" y="520" width="70" height="20" as="geometry" />
+          <mxGeometry x="301" y="520" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-15" value="" style="endArrow=none;html=1;" parent="NCF4tcWcs3JPyOawOPhI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -278,7 +278,7 @@
           <mxGeometry x="455" y="425" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-22" value="评审不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NCF4tcWcs3JPyOawOPhI-1" vertex="1">
-          <mxGeometry x="425" y="520" width="70" height="20" as="geometry" />
+          <mxGeometry x="460" y="520" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="NCF4tcWcs3JPyOawOPhI-1" source="ijkI_3LDNDb3iPdS3ZWE-24" target="ijkI_3LDNDb3iPdS3ZWE-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -351,6 +351,12 @@
         </mxCell>
         <mxCell id="ijkI_3LDNDb3iPdS3ZWE-42" value="需求问题验收不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NCF4tcWcs3JPyOawOPhI-1" vertex="1">
           <mxGeometry x="190" y="620" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8mETVhjcktXAK9E6mfCZ-0" value="通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NCF4tcWcs3JPyOawOPhI-1">
+          <mxGeometry x="392" y="445" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8mETVhjcktXAK9E6mfCZ-1" value="通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NCF4tcWcs3JPyOawOPhI-1">
+          <mxGeometry x="539" y="445" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
