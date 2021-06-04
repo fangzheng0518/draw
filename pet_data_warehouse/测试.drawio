@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T07:52:35.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="6-XcIUbF8cvktHvgBYtD" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T07:52:42.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="b1t6t15HXn9WyhfDMKZ_" version="14.7.3" type="github">
   <diagram id="Vl8W3AKDe2sn1CwZmE9F" name="第 1 页">
     <mxGraphModel dx="946" dy="2277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -57,13 +57,13 @@
           <mxGeometry x="365" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4XAwYOs7sh4kF-dpspBF-6" value="企业微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4XAwYOs7sh4kF-dpspBF-7" value="百度小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4XAwYOs7sh4kF-dpspBF-8" value="微信公众号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4XAwYOs7sh4kF-dpspBF-12" value="实物/虚拟" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="40" height="20" as="geometry" />
