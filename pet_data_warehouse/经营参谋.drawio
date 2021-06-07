@@ -1,4 +1,210 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T03:53:33.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="6FEV-fCygYHuJQV4E0gC" version="14.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T04:19:20.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="2zpp1tojosnJtJ8-MdfU" version="14.7.5" type="github" pages="2">
+  <diagram id="lMIAMMqikqOI9SP5k-66" name="产品目录分类">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-0" />
+        <mxCell id="htcc-oYfyJDx01dr_6yK-1" parent="htcc-oYfyJDx01dr_6yK-0" />
+        <mxCell id="htcc-oYfyJDx01dr_6yK-2" value="产品目录" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;strokeColor=#7EA6E0;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry y="355" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-3" value="医疗" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="200" y="278.1818181818182" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-3" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="500" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="112" y="365" />
+              <mxPoint x="188" y="293.1818181818182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-5" value="美容" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="200" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-5" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="246" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="114" y="375" />
+              <mxPoint x="188" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-7" value="商品" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="200" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-8" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-7" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="112" y="385" />
+              <mxPoint x="188" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3" target="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-10" value="药品" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-10" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="272" y="279.6818181818182" />
+              <mxPoint x="348" y="15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-14" value="消耗品" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="370" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-15" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-14" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="498" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="274" y="282.6818181818182" />
+              <mxPoint x="348" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-16" value="医事服务费" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="360" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-16" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="276" y="285.6818181818182" />
+              <mxPoint x="348" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-18" value="一般检查" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="365" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-18" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="650" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="278" y="288.6818181818182" />
+              <mxPoint x="348" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-20" value="影像检查" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="365" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-20" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="371" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="280" y="291.6818181818182" />
+              <mxPoint x="348" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-22" value="检验" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="380" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-22" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="790" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="280" y="294.6818181818182" />
+              <mxPoint x="348" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-24" value="一般处置" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="365" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-24" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="870" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="278" y="297.6818181818182" />
+              <mxPoint x="348" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-26" value="自配药物" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="365" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-26" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="363" y="930" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="276" y="300.6818181818182" />
+              <mxPoint x="348" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-28" value="手术" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="380" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-28" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="890" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="272" y="306.6818181818182" />
+              <mxPoint x="348" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-30" value="住院护理" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="365" y="480" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-31" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-30" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="274" y="303.6818181818182" />
+              <mxPoint x="348" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-32" value="美容" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="380" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-33" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-32" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="760" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="272" y="365" />
+              <mxPoint x="348" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-34" value="洗澡" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="380" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-35" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-34" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="820" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="274" y="375" />
+              <mxPoint x="348" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-36" value="贴心服务" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="365" y="720" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="htcc-oYfyJDx01dr_6yK-37" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-36" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="890" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="272" y="385" />
+              <mxPoint x="348" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="KUTu0ondHvyZYjYNmRvM" name="营业收入分析">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
