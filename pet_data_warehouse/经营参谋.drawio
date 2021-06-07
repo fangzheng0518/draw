@@ -1,35 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T03:31:43.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="VVNHxXI8fhjuGQHmas55" version="14.7.5" type="github">
-  <diagram id="KUTu0ondHvyZYjYNmRvM" name="第 1 页">
+<mxfile host="app.diagrams.net" modified="2021-06-07T03:34:09.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="-bTaoG7APYmvkaRYajK8" version="14.7.5" type="github">
+  <diagram id="KUTu0ondHvyZYjYNmRvM" name="营业收入分布">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lm0vqX43tQriD2dI6bJ_-12" value="营业收入" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="273" width="100" height="40" as="geometry" />
+        <mxCell id="lm0vqX43tQriD2dI6bJ_-12" value="营业收入分析" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="140" y="275" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lm0vqX43tQriD2dI6bJ_-13" value="医疗流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="lm0vqX43tQriD2dI6bJ_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" edge="1" parent="1" source="lm0vqX43tQriD2dI6bJ_-13" target="lm0vqX43tQriD2dI6bJ_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lm0vqX43tQriD2dI6bJ_-13" value="医疗流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lm0vqX43tQriD2dI6bJ_-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="lm0vqX43tQriD2dI6bJ_-13" parent="1" source="lm0vqX43tQriD2dI6bJ_-12">
+        <mxCell id="lm0vqX43tQriD2dI6bJ_-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;" edge="1" target="lm0vqX43tQriD2dI6bJ_-13" parent="1" source="lm0vqX43tQriD2dI6bJ_-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lm0vqX43tQriD2dI6bJ_-15" value="洗美流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="280" y="278" width="90" height="30" as="geometry" />
+        <mxCell id="lm0vqX43tQriD2dI6bJ_-15" value="洗美流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lm0vqX43tQriD2dI6bJ_-16" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="lm0vqX43tQriD2dI6bJ_-15" parent="1" source="lm0vqX43tQriD2dI6bJ_-12">
+        <mxCell id="lm0vqX43tQriD2dI6bJ_-16" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;" edge="1" target="lm0vqX43tQriD2dI6bJ_-15" parent="1" source="lm0vqX43tQriD2dI6bJ_-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="269" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lm0vqX43tQriD2dI6bJ_-17" value="商品流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+        <mxCell id="lm0vqX43tQriD2dI6bJ_-17" value="商品流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lm0vqX43tQriD2dI6bJ_-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="lm0vqX43tQriD2dI6bJ_-17" parent="1" source="lm0vqX43tQriD2dI6bJ_-12">
+        <mxCell id="lm0vqX43tQriD2dI6bJ_-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;" edge="1" target="lm0vqX43tQriD2dI6bJ_-17" parent="1" source="lm0vqX43tQriD2dI6bJ_-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="450" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lm0vqX43tQriD2dI6bJ_-19" value="医疗流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
