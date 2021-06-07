@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T11:25:02.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="EO0_QHFDXgHychux1FBt" version="14.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-07T11:26:50.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="iqTcbtllqwUEG64LSkXL" version="14.7.5" type="github" pages="2">
   <diagram id="lMIAMMqikqOI9SP5k-66" name="产品目录分类">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -143,6 +143,9 @@
             <mxPoint x="124" y="828.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-32" target="CzrqIMw82ODg70UeGK7L-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-32" value="美容" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="1230" width="60" height="30" as="geometry" />
         </mxCell>
@@ -150,6 +153,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-331" y="808.5" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-34" target="CzrqIMw82ODg70UeGK7L-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-34" value="洗澡" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="1300" width="60" height="30" as="geometry" />
@@ -193,6 +199,12 @@
         </mxCell>
         <mxCell id="CzrqIMw82ODg70UeGK7L-22" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;介入手术、五官科手术、肿瘤手术、软组织外科手术、骨骼及关节系统手术、其他操作、泌尿生殖系统手术、矫形外科手术、神经外科手术&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="490" y="1162.25" width="410" height="17.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-24" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;美容活动专栏、犬造型、猫造型、犬单项服务、猫单项服务、犬猫开结&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="483" y="1232.13" width="410" height="17.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-26" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;洗澡活动专栏、犬洗浴、猫洗浴、犬SPA、猫SPA、犬药浴、猫药浴、普通洗浴&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="483" y="1306.1200000000001" width="410" height="17.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
