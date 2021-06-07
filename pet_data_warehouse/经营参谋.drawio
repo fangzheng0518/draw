@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T11:13:35.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="buZdYYwnUJoKdcQ7NSba" version="14.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-07T11:25:02.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="EO0_QHFDXgHychux1FBt" version="14.7.5" type="github" pages="2">
   <diagram id="lMIAMMqikqOI9SP5k-66" name="产品目录分类">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -34,6 +34,9 @@
         <mxCell id="htcc-oYfyJDx01dr_6yK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#7EA6E0;noEdgeStyle=1;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3" target="htcc-oYfyJDx01dr_6yK-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-10" target="CzrqIMw82ODg70UeGK7L-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-10" value="药品" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="530" width="60" height="30" as="geometry" />
         </mxCell>
@@ -41,6 +44,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-101" y="488.5" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-14" target="CzrqIMw82ODg70UeGK7L-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-14" value="消耗品" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="600" width="80" height="30" as="geometry" />
@@ -50,6 +56,9 @@
             <mxPoint x="-91" y="546.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-16" target="CzrqIMw82ODg70UeGK7L-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-16" value="医事服务费" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="670" width="100" height="30" as="geometry" />
         </mxCell>
@@ -57,6 +66,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-101" y="608.5" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-18" target="CzrqIMw82ODg70UeGK7L-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-18" value="一般检查" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="740" width="90" height="30" as="geometry" />
@@ -66,6 +78,9 @@
             <mxPoint x="-81" y="698.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-20" target="CzrqIMw82ODg70UeGK7L-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-20" value="影像检查" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="810" width="90" height="30" as="geometry" />
         </mxCell>
@@ -74,6 +89,9 @@
             <mxPoint x="-90" y="768.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-22" target="CzrqIMw82ODg70UeGK7L-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-22" value="检验" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="880" width="60" height="30" as="geometry" />
         </mxCell>
@@ -81,6 +99,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-61" y="838.5" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-24" target="CzrqIMw82ODg70UeGK7L-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-24" value="一般处置" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="950" width="90" height="30" as="geometry" />
@@ -98,12 +119,20 @@
             <mxPoint x="-98" y="978.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-28" target="CzrqIMw82ODg70UeGK7L-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-28" value="手术" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
           <mxGeometry x="340" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-29" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" target="htcc-oYfyJDx01dr_6yK-28" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="109" y="938.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;strokeColor=#7EA6E0;" edge="1" parent="htcc-oYfyJDx01dr_6yK-1" source="htcc-oYfyJDx01dr_6yK-30" target="CzrqIMw82ODg70UeGK7L-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="htcc-oYfyJDx01dr_6yK-30" value="住院护理" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
@@ -137,6 +166,33 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-311" y="938.5" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-4" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;抗微生物药、抗寄生虫药、麻醉药、心血管系统用药、呼吸系统用药、消化系统用药、泌尿系统用药、血液系统用药、激素及影响内分泌药物、抗组胺药、免疫系统用药及化疗药、维生素和矿物质药、氨基酸、调节水、电解质及酸碱平衡药、透析液、诊断用药（造影剂）、耳道外用药、皮肤病外用药、外伤用药、眼科滴眼药、脊柱、骨与关节用药、消毒剂、生物制品（不含疫苗）、中药、其它、专科用药、清热解毒药、生物制品（仅疫苗）、神经系统用药（不含镇静）、镇痛药、镇静剂&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="480" y="390" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-6" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;化学试剂、办公经营耗材、美容耗材、器械、设备自用试剂、骨科耗材、实物检验、医用耗材、检查检验耗材&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="480" y="590" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-8" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;挂号收费、诊断收费&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="490" y="670" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-10" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;特殊检查、基础检查&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="490" y="740" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-12" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;X线检查、超声检查、CT检查、窥镜、造影操作、MRI检查&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="490" y="795" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-14" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;化验检查&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="490" y="882.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-16" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;人工处置、设备操作、第三方服务、康复理疗、其他操作&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="490" y="956.25" width="360" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-21" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;护理、住院留观&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="490" y="1096.25" width="110" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CzrqIMw82ODg70UeGK7L-22" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 10px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;line-height: 21px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 21px&quot;&gt;介入手术、五官科手术、肿瘤手术、软组织外科手术、骨骼及关节系统手术、其他操作、泌尿生殖系统手术、矫形外科手术、神经外科手术&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="htcc-oYfyJDx01dr_6yK-1">
+          <mxGeometry x="490" y="1162.25" width="410" height="17.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
