@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T11:44:18.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="O2cXyqdw31GaLHwKdKHx" version="14.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-07T11:45:42.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="vwBoqfQ5J7g7cCqf-naM" version="14.7.5" type="github" pages="2">
   <diagram id="lMIAMMqikqOI9SP5k-66" name="产品目录分类">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lm0vqX43tQriD2dI6bJ_-15" value="洗美流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lm0vqX43tQriD2dI6bJ_-16" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;" edge="1" target="lm0vqX43tQriD2dI6bJ_-15" parent="1" source="lm0vqX43tQriD2dI6bJ_-12">
           <mxGeometry relative="1" as="geometry">
@@ -234,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lm0vqX43tQriD2dI6bJ_-17" value="商品流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="540" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lm0vqX43tQriD2dI6bJ_-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;" edge="1" target="lm0vqX43tQriD2dI6bJ_-17" parent="1" source="lm0vqX43tQriD2dI6bJ_-12">
           <mxGeometry relative="1" as="geometry">
@@ -255,6 +255,30 @@
         <mxCell id="lm0vqX43tQriD2dI6bJ_-24" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="lm0vqX43tQriD2dI6bJ_-23" parent="1" source="lm0vqX43tQriD2dI6bJ_-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naKFfT_1etVcLX47HaEM-2" value="洗澡流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};shadow=0;labelBackgroundColor=none;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="401" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="naKFfT_1etVcLX47HaEM-3" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;shadow=0;fontSize=10;fontColor=#000000;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="naKFfT_1etVcLX47HaEM-2" parent="1" source="lm0vqX43tQriD2dI6bJ_-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="374" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naKFfT_1etVcLX47HaEM-5" value="美容流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};shadow=0;labelBackgroundColor=none;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="401" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="naKFfT_1etVcLX47HaEM-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;shadow=0;fontSize=10;fontColor=#000000;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="naKFfT_1etVcLX47HaEM-5" parent="1" source="lm0vqX43tQriD2dI6bJ_-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naKFfT_1etVcLX47HaEM-7" value="贴心服务流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};shadow=0;labelBackgroundColor=none;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="401" y="440" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="naKFfT_1etVcLX47HaEM-8" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;shadow=0;fontSize=10;fontColor=#000000;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="naKFfT_1etVcLX47HaEM-7" parent="1" source="lm0vqX43tQriD2dI6bJ_-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
