@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T05:43:16.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="0AP4wole8FeBNxFZYKAo" version="14.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-08T05:52:24.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="TYybl_SHEVqmLGYRFLh4" version="14.7.5" type="github" pages="2">
   <diagram id="lMIAMMqikqOI9SP5k-66" name="产品目录分类">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -284,7 +284,7 @@
         <mxCell id="K2xg1AK7tNhBC1-DnQzg-1" value="商品流水" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};shadow=0;labelBackgroundColor=none;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="401" y="540" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K2xg1AK7tNhBC1-DnQzg-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;shadow=0;fontSize=10;fontColor=#000000;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="K2xg1AK7tNhBC1-DnQzg-1" parent="1">
+        <mxCell id="K2xg1AK7tNhBC1-DnQzg-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;shadow=0;fontSize=10;fontColor=#000000;strokeColor=#7EA6E0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="K2xg1AK7tNhBC1-DnQzg-1" parent="1" source="lm0vqX43tQriD2dI6bJ_-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="557" as="sourcePoint" />
           </mxGeometry>
