@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T05:00:58.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="G7i1h0-LmtmxKG48LrmB" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T05:03:16.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="JNPUQg61j1vxwVh2ocVN" version="14.7.7" type="github">
   <diagram id="ok6Avo1aEugMibk1hLXR" name="第 1 页">
     <mxGraphModel dx="2595" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="b251ukWt1x-65VZ94Y3O-10" value="1、落户申请表：现场拍照&lt;br&gt;2、缴纳首付" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="305" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b251ukWt1x-65VZ94Y3O-11" value="20210620" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b251ukWt1x-65VZ94Y3O-11" value="20210619" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="380" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b251ukWt1x-65VZ94Y3O-13" value="拿新身份证和集体户口纸 + 领结婚证&lt;br&gt;1、郑帆：拿新身份证 +&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; ; font-size: 13px&quot;&gt;集体户口纸&lt;/span&gt;&lt;br&gt;2、方政：身份证 + 户口本" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="b251ukWt1x-65VZ94Y3O-30" value="销户后寄回武汉" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b251ukWt1x-65VZ94Y3O-31" value="20210620" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="380" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
