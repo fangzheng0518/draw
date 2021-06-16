@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T11:29:19.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="xnmjyVyr57Kb_JKGDvS4" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T11:31:16.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="6a5XtYdrdyFinOrXIhHf" version="14.7.7" type="github">
   <diagram id="ok6Avo1aEugMibk1hLXR" name="第 1 页">
-    <mxGraphModel dx="1616" dy="1023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="1023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
             <mxPoint x="263" y="349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b251ukWt1x-65VZ94Y3O-17" value="准迁证明寄回吉林" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="173" y="309" width="120" height="20" as="geometry" />
+        <mxCell id="b251ukWt1x-65VZ94Y3O-17" value="准迁证明寄回吉林（3天）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="143" y="301" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b251ukWt1x-65VZ94Y3O-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="673" y="459" width="20" height="20" as="geometry" />
@@ -50,7 +50,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b251ukWt1x-65VZ94Y3O-20" value="武汉派出所&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; ; font-size: 13px&quot;&gt;迁入&lt;br&gt;加急办理身份证&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="b251ukWt1x-65VZ94Y3O-20" value="武汉派出所&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; ; font-size: 13px&quot;&gt;迁入&lt;br&gt;加急办理身份证&lt;br&gt;5天左右出来&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="343" y="389" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b251ukWt1x-65VZ94Y3O-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -88,8 +88,8 @@
             <mxPoint x="853" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b251ukWt1x-65VZ94Y3O-30" value="销户后寄回武汉" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="393" y="229" width="120" height="20" as="geometry" />
+        <mxCell id="b251ukWt1x-65VZ94Y3O-30" value="销户后寄回武汉（3天）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="399" y="229" width="145" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b251ukWt1x-65VZ94Y3O-31" value="20210705" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="633" y="479" width="40" height="20" as="geometry" />
