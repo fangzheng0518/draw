@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T06:20:11.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="a4wFA_nIhDowrP9zli3V" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T10:09:06.902Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="aGhQRec6LybFUNPY6e6E" version="14.7.7" type="github">
   <diagram id="ok6Avo1aEugMibk1hLXR" name="第 1 页">
     <mxGraphModel dx="2595" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
           <mxGeometry x="1060" y="300" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b251ukWt1x-65VZ94Y3O-59" value="注意：&lt;br&gt;1、是否工作日办理" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="770" width="300" height="40" as="geometry" />
+          <mxGeometry x="740" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
