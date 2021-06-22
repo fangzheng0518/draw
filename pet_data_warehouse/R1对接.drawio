@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T06:03:24.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="T3mVQuoJ4doJqdi4vRZG" version="14.7.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-22T06:13:20.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Fu-jcoD9hbSmPAX03aLL" version="14.7.9" type="github" pages="2">
   <diagram id="tg_aiwh_hqNsNNgc-Pqn" name="第 1 页">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,6 +215,18 @@
         </mxCell>
         <mxCell id="P5xsUmdTjZuujOmd9qbt-41" value="用户信息同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P5xsUmdTjZuujOmd9qbt-1">
           <mxGeometry x="725" y="730" width="155" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xsUmdTjZuujOmd9qbt-42" value="通过链接访问" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P5xsUmdTjZuujOmd9qbt-1">
+          <mxGeometry x="685" y="260" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xsUmdTjZuujOmd9qbt-43" value="通过链接访问" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P5xsUmdTjZuujOmd9qbt-1">
+          <mxGeometry x="685" y="440" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xsUmdTjZuujOmd9qbt-46" value="通过链接访问" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P5xsUmdTjZuujOmd9qbt-1">
+          <mxGeometry x="685" y="360" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P5xsUmdTjZuujOmd9qbt-47" value="通过链接访问" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P5xsUmdTjZuujOmd9qbt-1">
+          <mxGeometry x="680" y="530" width="115" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
