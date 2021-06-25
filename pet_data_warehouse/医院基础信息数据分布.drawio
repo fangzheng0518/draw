@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T06:34:21.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="jxF1jdJT98_vRa6O-Lfm" version="14.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-25T06:37:49.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QwaJ1jq4SR6qfbVwP_zf" version="14.8.0" type="github" pages="2">
   <diagram id="0XasfyNpOzrWaeMzdZiy" name="第 1 页">
     <mxGraphModel dx="1426" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -169,6 +169,29 @@
         </mxCell>
         <mxCell id="Fl9Ca3yLmvjMcJVPDrWc-43" value="医院日报" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="n_Ss0Vp095Iw-ytrCq9f-1">
           <mxGeometry x="1005" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fl9Ca3yLmvjMcJVPDrWc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="n_Ss0Vp095Iw-ytrCq9f-1" source="Fl9Ca3yLmvjMcJVPDrWc-45" target="Fl9Ca3yLmvjMcJVPDrWc-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="660" />
+              <mxPoint x="350" y="420" />
+              <mxPoint x="190" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fl9Ca3yLmvjMcJVPDrWc-45" value="仲谋权限配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="n_Ss0Vp095Iw-ytrCq9f-1">
+          <mxGeometry x="827" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fl9Ca3yLmvjMcJVPDrWc-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n_Ss0Vp095Iw-ytrCq9f-1" source="Fl9Ca3yLmvjMcJVPDrWc-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fl9Ca3yLmvjMcJVPDrWc-46" value="仲谋医院筛选器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="n_Ss0Vp095Iw-ytrCq9f-1">
+          <mxGeometry x="827" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fl9Ca3yLmvjMcJVPDrWc-50" value="&lt;span style=&quot;text-align: left&quot;&gt;读acp的t_organ_struct_info表&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n_Ss0Vp095Iw-ytrCq9f-1">
+          <mxGeometry x="400" y="630" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
