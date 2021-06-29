@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T06:09:00.808Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="AVVdAKn-0IWfcRoa756b" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T06:10:17.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="1jyM4Vi0V-bGlX4TO4Dk" version="14.8.1" type="github">
   <diagram id="vZq6qZyF6otK3MFfsPUS" name="第 1 页">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -87,6 +87,12 @@
               <mxPoint x="310" y="530" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hdDguhC78YPENdvZNt3F-20" value="线下诊疗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hdDguhC78YPENdvZNt3F-21" value="实物商品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1000" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
